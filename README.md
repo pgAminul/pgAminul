@@ -1,5 +1,9 @@
 <div align="center">
-  <img height="200" src="https://github.com/SharminShopna/SharminShopna/blob/main/IMG_4486.JPG"  />
+  <video autoplay loop muted height="300">
+    <source src="https://streamable.com/9v89wv" type="video/mp4">
+    
+  </video>
+  <img height="200" src="https://github.com/SharminShopna/SharminShopna/blob/main/IMG_4486.JPG" style="margin-top: -150px; position: relative; z-index: 1;" />
 </div>
 
 ###
@@ -55,19 +59,20 @@
 ###
 
 <div align="left">
-  <a href="https://www.facebook.com/sharmin.shopna.338" target="_blank">
+  <a href="https://www.facebook.com/AminulislamShowrov12" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+    <a href="https://www.instagram.com/aminul_islam_showrov/" target="_blank">
+    <img src="https://i.ibb.co/9HX4bYS/Instagram-logo-in-a-circle-PNG.png" width="52" height="40" alt="facebook logo"  />
+  </a> 
+    <a href="https://www.linkedin.com/in/md-aminul-islam-showrov/" target="_blank">
+    <img src="https://i.ibb.co/1sPFwFm/cz-Nmcy1wcml2-YXRl-L3-Jhd3-Bpe-GVs-X2lt-YWdlcy93-ZWJza-XRl-X2-Nvbn-Rlbn-Qvb-HIvdjk4-Mi1k-My0x-MC5wbm.jpg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="left">My Stats</h3>
+
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharminShopna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SharminShopna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SharminShopna&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
