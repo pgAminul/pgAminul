@@ -57,13 +57,13 @@
 
 <div align="left">
   <a href="https://www.facebook.com/AminulislamShowrov12" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="48" alt="facebook logo"  />
   </a>
     <a href="https://www.instagram.com/aminul_islam_showrov/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" alt="facebook logo"  />
+    <img src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" alt="facebook logo" width="48" height="48" />
   </a> 
     <a href="https://www.linkedin.com/in/md-aminul-islam-showrov/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"  alt="facebook logo"  />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"  alt="facebook logo" width="48" height="48" />
   </a>
 </div>
 
