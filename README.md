@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.ibb.co/ZXQzZHB/89616904-e4e6-4ad3-bec2-2efce42ae6bb.gif" alt="89616904-e4e6-4ad3-bec2-2efce42ae6bb" border="0" />
+
 </div>
 
 ###
@@ -60,10 +60,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
     <a href="https://www.instagram.com/aminul_islam_showrov/" target="_blank">
-    <img src="https://i.ibb.co/9HX4bYS/Instagram-logo-in-a-circle-PNG.png" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" width="52" height="40" alt="facebook logo"  />
   </a> 
     <a href="https://www.linkedin.com/in/md-aminul-islam-showrov/" target="_blank">
-    <img src="https://i.ibb.co/1sPFwFm/cz-Nmcy1wcml2-YXRl-L3-Jhd3-Bpe-GVs-X2lt-YWdlcy93-ZWJza-XRl-X2-Nvbn-Rlbn-Qvb-HIvdjk4-Mi1k-My0x-MC5wbm.jpg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
 
