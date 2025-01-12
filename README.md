@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">Front-end Developer</h2>
+<h2 align="left">Web Developer</h2>
 
 ###
 
@@ -17,11 +17,11 @@
 
 ###
 
-<p align="left">Hello. I am a passionate Front-End Developer dedicated to creating exceptional user experiences through technology. With expertise in React, Tailwind CSS, and modern web technologies, I craft interactive and functional websites. My love for design and a deep interest in enhancing user experience drive me to continuously learn and grow. Beyond professional skills, I enjoy embracing creative challenges and aspire to explore new dimensions in web development in the future.</p>
+<p align="left">Hello. I'm a motivated and detail-oriented full-stack web developer with expertise in front-end and back-end technologies, including HTML5, CSS3, JavaScript, React, Redux, Node.js, and MongoDB. Skilled in creating dynamic, user-friendly web applications with seamless functionality and responsive designs. Proficient in authentication, API integration, and state management using tools like Firebase, JWT, and Redux. Adept at solving complex problems and delivering optimized solutions, with a strong commitment to staying updated with the latest industry trends and technologies.</p>
 
 ###
 
-<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently learning : React, Backend Data Management<br>🎯 Goals: To become a skilled Full-Stack Developer and create innovative web applications<br>🎲 Fun fact: My first code run required fixing 20+ bugs at once .</p>
+<p align="left">✨ Creating bugs since  2024<br>📚 I'm currently learning: React, Backend Data Management<br>🎯 Goals: To become a skilled Full-Stack Developer and create innovative web applications<br>🎲 Fun fact: My first code run required fixing 20+ bugs at once .</p>
 
 ###
 
