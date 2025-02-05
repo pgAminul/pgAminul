@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/rR9ynSzC/businessbyaminul-gmail-com.png alt="Aminul Islam - Full Stack Developer">
+  <img src="https://i.ibb.co/rR9ynSzC/businessbyaminul-gmail-com.png" alt="Aminul Islam - Full Stack Developer">
 </p>
 
 <h1 align="center">👋 Hi, I'm Aminul Islam</h1>
@@ -79,7 +79,7 @@ I am a passionate **Full Stack Developer** with expertise in **MongoDB, Express.
 </p>
 💡 **Looking for collaboration? Feel free to reach out!**  
 📧 Email: [aminul254237@gmail.com] 
-🌎 Portfolio: [protfolio-aminul.netlify.app] 
+🌎 Portfolio: [protfolio-aminul.netlify.app] (protfolio-aminul.netlify.app)
 <p align="center"> Contact Number : +60 11-6173 4524 </p>
 
 ---
