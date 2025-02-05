@@ -77,9 +77,11 @@ I am a passionate **Full Stack Developer** with expertise in **MongoDB, Express.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
 </p>
-💡 **Looking for collaboration? Feel free to reach out!**  
-📧 Email: [aminul254237@gmail.com] 
-🌎 Portfolio: [protfolio-aminul.netlify.app] (protfolio-aminul.netlify.app)
+##💡 Looking for collaboration? Feel free to reach out!
+<p>📧 Email: aminul254237@gmail.com</p>
+ <a href="protfolio-aminul.netlify.app">
+   <p>Protfolio Website</p>
+  </a>
 <p align="center"> Contact Number : +60 11-6173 4524 </p>
 
 ---
