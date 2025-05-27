@@ -14,10 +14,7 @@ I’m a **results-driven Full Stack Developer** with **3+ years of experience** 
 ---
 
 ## 🔥 Current Focus  
-- 🌐 Building a **Next.js-powered Tourism Platform** with SSR & ISR  
-- ⚡ Implementing **Redux Toolkit** for state management in large-scale apps  
-- 🔐 Enhancing security with **OAuth 2.0 & JWT**  
-- 📡 Experimenting with **WebSockets** for live booking updates  
+- 👩‍💻 Typescript 
 
 ---
 
