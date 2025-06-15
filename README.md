@@ -3,6 +3,11 @@
   <img src="https://i.ibb.co/rR9ynSzC/businessbyaminul-gmail-com.png" alt="Aminul Islam - Full Stack Developer" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); max-width: 100%; height: auto;">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFA1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=MERN+Stack+Developer;Front-End+Developer;Aminul+Islam" alt="Typing SVG" />
+</p>
+
+
 <h1 align="center">👋 Hi, I'm Aminul Islam</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN & Next.js Expert | API Specialist</h3>
 
