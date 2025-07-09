@@ -7,7 +7,7 @@
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #00FFA1, #0085FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradient 3s ease infinite; background-size: 200% 200%;">Aminul Islam</span>
 </h1>
-<h3 align="center" style="margin-top: -10px;">🚀 MERN Full Stack Developer | Next.js Specialist | Cloud Solutions Architect</h3>
+<h3 align="center" style="margin-top: -10px;">🚀 MERN Full Stack Developer | Next.js Specialist</h3>
 
 <!-- Animated Typing SVG with Multiple Lines -->
 <div align="center">
