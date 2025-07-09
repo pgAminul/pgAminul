@@ -11,7 +11,7 @@
 
 <!-- Animated Typing SVG with Multiple Lines -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FFA1&center=true&vCenter=true&width=600&height=80&lines=3%2B+years+of+MERN+stack+experience;AWS+Certified+Developer;API+Integration+Specialist;Performance+Optimization+Expert;Clean+Code+Advocate" alt="Professional Expertise" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FFA1&center=true&vCenter=true&width=600&height=80&lines=3%2B+years+of+MERN+stack+experience;API+Integration+Specialist;Performance+Optimization+Expert;Clean+Code+Advocate" alt="Professional Expertise" />
 </div>
 
 ---
