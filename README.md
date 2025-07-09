@@ -164,10 +164,3 @@ Experienced **Senior Full Stack Developer** with proven expertise in building sc
 
 ---
 
-<p align="center">
-  <img src="https://github.com/pgAminul/pgAminul/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <i>“First, solve the problem. Then, write the code.”</i> — John Johnson
-</p>
