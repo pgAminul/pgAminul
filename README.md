@@ -101,34 +101,42 @@ Experienced **Senior Full Stack Developer** with proven expertise in building sc
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. E-Commerce Platform (Next.js + Microservices)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFA1?style=for-the-badge&logo=vercel&logoColor=white)](https://example.com)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pgAminul/ecommerce-platform)
-
-- Built with Next.js for SSR and optimized performance
-- Microservices architecture with Docker containers
-- Integrated Stripe payment gateway with webhooks
-- Achieved 95+ Lighthouse performance score
-
-### 2. Real-time Dashboard (React + Socket.io)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFA1?style=for-the-badge&logo=netlify&logoColor=white)](https://example.com)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pgAminul/realtime-dashboard)
-
-- Real-time data visualization with Socket.io
-- Custom WebSocket server with Node.js
-- Optimized for 10,000+ concurrent connections
-- JWT authentication with refresh tokens
+## 🚀 Currently Exploring  
+- 📘 **TypeScript**  
+- 🧱 **Microservices Architecture**  
+- ⚡ **Socket.io & Real-time Systems**
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing Next.js Applications for Peak Performance](https://example.com)
-- [Microservices Architecture: Lessons from Production](https://example.com)
-- [The Complete Guide to JWT Authentication](https://example.com)
-<!-- BLOG-POST-LIST:END -->
+## 🛠️ My Tech Toolbox
+
+### 💻 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🧩 Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### ⚙️ Tools & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
 
 ---
 
